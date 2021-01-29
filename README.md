@@ -17,12 +17,12 @@
     - [ ] CSS
     - [ ] mobile
     - [ ] JS
-  - [] Criar ABOUT ME 
+  - [ ] Criar ABOUT ME 
     - [ ] HTML
     - [ ] CSS
     - [ ] mobile
     - [ ] JS
-  - [] Criar CONTACT
+  - [ ] Criar CONTACT
     - [ ] HTML
     - [ ] CSS
     - [ ] mobile
