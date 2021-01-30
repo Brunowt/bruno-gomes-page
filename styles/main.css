@@ -1,0 +1,80 @@
+/*
+
+@author: Bruno Gomes
+version 0.1
+
+*/
+
+/* Fonts
+=========================================================  */
+@font-face{
+    font-family: 'Rationale';
+    font-style: normal;
+    src: url(fonts/Rationale-Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family: 'Rajdhani';
+    font-style: normal;
+    src: url(fonts/Rajdhani-Light.ttf) format('truetype'),
+    
+}
+
+@font-face{
+    font-family: 'Rajdhani';
+    font-style: normal;
+    src: url(fonts/Rajdhani-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'Rajdhani-Medium';
+    font-style: normal;
+    src: url(fonts/Rajdhani-Medium.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'Rajdhani-Semibold';
+    font-style: normal;
+    src: url(fonts/Rajdhani-SemiBold.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'Rajdhani-Bold';
+    font-style: normal;
+    src: url(fonts/Rajdhani-Bold.ttf) format('truetype');
+}
+
+
+
+/* WHOLE DOCUMENT
+=========================================================  */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Menu
+=========================================================  */
+.navbar-nav .nav-item .nav-link{
+    font-family: 'Rajdhani-Bold' !important;
+    font-size: 2rem;
+}
+
+.logo-image {
+    width: 50%;
+}
+
+/* Home  */
+
+/* Serviços  */
+
+
+/* Sobre Mim  */
+
+
+/* Contato  */
+
+
+
+
